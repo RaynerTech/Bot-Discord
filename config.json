@@ -1,9 +1,12 @@
-
 {
 
-    "token": "NzM5MTM0NDcyMjgwMjExNTA3.XyWCng.zELxbCjDamOcCiux8C3eLnug380",
-    "prefix": "!"
+    "_Comentario": "ADD TOKEN DO SEU BOT",
+    "Discord": {
+
+        "token": "######",
+        "prefix": "!"
+    
     }
       
-    
+}    
     
