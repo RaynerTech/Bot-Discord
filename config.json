@@ -1,12 +1,11 @@
 {
 
-    "_Comentario": "ADD TOKEN DO SEU BOT",
-    "Discord": {
-
-        "token": "######",
-        "prefix": "!"
+        " _Comentario " : " ADICIONAR TOKEN DO SEU BOT " ,
+        " Discord " : {
     
-    }
-      
-}    
-    
+            " token " : " ###### " ,
+            " prefixo " : " ! "
+        
+        }
+          
+    }    
